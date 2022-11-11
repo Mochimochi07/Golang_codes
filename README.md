@@ -1,7 +1,7 @@
 # Golang_codes
 This is my no framework Golang repository which i will store random programs.
 
-will start posting in november until nov 30
+will start posting in months of November
 
 I use Golang because of its ease of use, great performance and strong security.
 
